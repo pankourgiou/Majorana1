@@ -1,0 +1,1 @@
+First in line 6 you will have to change your_path indication to the path you have set both the .png file and the .py file...you will have to set them both in the same folder then you will have to run the program as you can see on issues folder. enjoy!
